@@ -1,5 +1,5 @@
 Package.describe({
-  name: "my-custom-package"
+  name: "engageict-discuss"
 });
 
 Package.onUse( function(api) {
